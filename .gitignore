@@ -1,0 +1,16 @@
+## the .d and .o files and the executable
+*.o
+*.d
+mlev-hiv-sim
+
+## output xml files
+*.xml
+
+## hidden file
+.*
+~*
+## but not this file
+!.gitignore
+
+## ipython notebooks (track .ipynb.cln instead)
+*.ipynb
