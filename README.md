@@ -41,8 +41,6 @@ When the simulation has ended, the following files should be in the data/ folder
 - `longitudinal-sample-file-<id>.xml` -- at regular (short) time intervals,
   a random host is written to this file
 - `immresp-file-<id>.xml` -- file containing all immune responses
-- TODO ditch the `file` in the filenames, ...
-
 
 ## jupyter notebooks for interpreting the data
 
